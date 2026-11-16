@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived data, please cite the article below."
+title: "Everything is memory? A connectome-based falsification test of attractor inertia as a unifying axis of autistic, Alzheimer and parkinsonian brain dynamics"
+abstract: >-
+  Reproducibility package for a connectome-based falsification test of whether
+  motif-gated attractor inertia (consolidation gain g) and stochastic noise
+  tolerance (sigma) unify neurotypical, autistic, Alzheimer and parkinsonian
+  brain dynamics, and resolution of their disjoint coordinates in the space of
+  coupling budget (K), conduction velocity (v), focal sensorimotor locus (g_SM)
+  and noise (sigma).
+type: software
+authors:
+  - family-names: "Alvarado"
+    given-names: "Ysaías J."
+  - family-names: "Quintero"
+    given-names: "Máximo"
+  - family-names: "Cardozo-Urdaneta"
+    given-names: "Arlene"
+  - family-names: "Lossada"
+    given-names: "Carla"
+  - family-names: "Marrero-Ponce"
+    given-names: "Yovani"
+  - family-names: "Martinez-Rios"
+    given-names: "Félix"
+  - family-names: "Pérez-Castillo"
+    given-names: "Yunierkis"
+  - family-names: "Delgado"
+    given-names: "Ariana"
+    email: "arianadelg@gmail.com"
+  - family-names: "González-Paz"
+    given-names: "Lenin"
+    email: "lgonzalezpaz@gmail.com"
+license: MIT
+version: "1.1.0"
+date-released: "2026-11-04"
+keywords:
+  - Kuramoto model
+  - structural connectome
+  - metastability
+  - attractor inertia
+  - synaptic consolidation
+  - autism spectrum disorder
+  - Alzheimer's disease
+  - Parkinson's disease

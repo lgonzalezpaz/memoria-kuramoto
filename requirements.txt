@@ -1,0 +1,9 @@
+# Exact versions used for the archived run (see results/environment_frozen.txt)
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+scikit-learn==1.9.1
+numba==0.68.1
+matplotlib==3.11.2
+python-docx==1.2.0
+# Optional (only needed for src/fetch_connectome.py): tvb-data==3.0.0

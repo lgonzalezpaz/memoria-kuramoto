@@ -1,0 +1,15 @@
+name: memoria-kuramoto
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy=2.5
+  - scipy=1.18
+  - pandas=3.0
+  - scikit-learn=1.9
+  - numba=0.68
+  - matplotlib=3.11
+  - pip
+  - pip:
+      - python-docx==1.2.0
+      - tvb-data==3.0.0
